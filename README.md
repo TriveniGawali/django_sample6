@@ -1,2 +1,2 @@
 # django_sample6
-hosting demo
+hosting demo of django project
